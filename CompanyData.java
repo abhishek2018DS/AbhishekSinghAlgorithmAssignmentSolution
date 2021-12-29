@@ -15,7 +15,7 @@ public class CompanyData{
 		int size= sc.nextInt();
 
 		int count =0;
-        int decline= 0; 
+                int decline= 0; 
 
 		//System.out.println("size of the company entered: "+size);
 		Boolean compArray[]= new Boolean[size];
