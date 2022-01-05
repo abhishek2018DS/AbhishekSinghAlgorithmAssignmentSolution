@@ -1,7 +1,7 @@
-package com.greatlearning.driver;
-import com.greatlearning.mergesort.MergeSortImplementation;
-import com.greatlearning.mergesort.descend.MergeSortDescending;
-import com.greatlearning.stocksearching.StockSearching;
+package lab.greatlearning.driver;
+import lab.greatlearning.mergesort.MergeSortImplementation;
+import lab.greatlearning.mergesort.descend.MergeSortDescending;
+import lab.greatlearning.stocksearching.StockSearching;
 import java.util.Scanner;
 import java.util.Arrays;
 
