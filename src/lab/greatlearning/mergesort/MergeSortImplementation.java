@@ -1,4 +1,4 @@
-package com.greatlearning.mergesort;
+package lab.greatlearning.mergesort;
 import java.util.Arrays;
 
 public class MergeSortImplementation
